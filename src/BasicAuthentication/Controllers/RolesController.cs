@@ -21,6 +21,7 @@ namespace BasicAuthentication.Controllers
         {
             _db = db;
         }
+
         // GET: /<controller>/
         public ActionResult Index()
         {
